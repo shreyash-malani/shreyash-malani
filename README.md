@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **shreyash-malani/shreyash-malani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-    <img src="https://github.com/shreyash-malani/Shreyash_Malani24/blob/main/Add%20a%20heading.png" alt="logo">
+    <img src="https://github.com/shreyash-malani/shreyash-malani/blob/main/Add%20a%20heading.png" alt="logo">
 </div>
 
 <h1 align="center">Hi 👋, I'm Shreyash Malani</h1>
