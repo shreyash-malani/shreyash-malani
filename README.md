@@ -64,6 +64,12 @@ Here are some ideas to get you started:
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyash-malani&show_icons=true&locale=en&layout=compact" alt="shreyash-malani" />
 </p>
 
+<div align="center">
+  <a href="https://github.com/shreyash-malani/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyash-malani&theme=xcode" alt="Shreyash's github activity graph" />
+  </a>
+</div>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyash-malani&show_icons=true&locale=en" alt="shreyash-malani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyash-malani&" alt="shreyash-malani" /></p>
