@@ -1,17 +1,3 @@
-<!--
-**shreyash-malani/shreyash-malani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
     <img src="https://github.com/shreyash-malani/shreyash-malani/blob/main/Add%20a%20heading.png" alt="logo">
 </div>
@@ -26,8 +12,6 @@ Here are some ideas to get you started:
 </p>
 
 - 🌱 I’m currently learning **Java**
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -60,16 +44,14 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyash-malani&show_icons=true&locale=en&layout=compact" alt="shreyash-malani" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyash-malani&show_icons=true&locale=en&layout=compact" alt="shreyash-malani" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyash-malani&show_icons=true&locale=en" alt="shreyash-malani" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyash-malani&" alt="shreyash-malani" /></p>
 
 <div align="center">
   <a href="https://github.com/shreyash-malani/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyash-malani&theme=xcode" alt="Shreyash's github activity graph" />
   </a>
 </div>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyash-malani&show_icons=true&locale=en" alt="shreyash-malani" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyash-malani&" alt="shreyash-malani" /></p>
