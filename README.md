@@ -18,7 +18,6 @@
     <a href="www.linkedin.com/in/shreyash-malani-7019782a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/shreyash-malani-7019782a4" height="30" width="40" /></a>
     <a href="https://instagram.com/shreyas.malani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreyas.malani" height="30" width="40" /></a>
     <a href="https://www.codechef.com/users/shreyash_24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shreyash_24" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/shreyash_321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreyash_321" height="30" width="40" /></a>
     <a href="https://discord.gg/shreyashmalani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shreyashmalani" height="30" width="40" /></a>
 </p>
 
