@@ -47,7 +47,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyash-malani&show_icons=true&locale=en" alt="shreyash-malani" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyash-malani&" alt="shreyash-malani" /></p>
 
 <div align="center">
   <a href="https://github.com/shreyash-malani/github-readme-activity-graph">
